@@ -12,8 +12,12 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 ### Objective
 | Objective | Status |
 |:-------:| :-------: |
-| Design and Fabrication of (830nm) NIR Device for Photo-Biomodulation (PBM) 
-therapy. | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
-| Validation of the effect of monochromatic (830nm) NIR device in counter 
-measuring Affective Disorder in animal model (Zebra Fish) | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) | 
+| Design and Fabrication of (830nm) NIR Device for Photo-Biomodulation (PBM therapy ). | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+| Validation of the effect of monochromatic (830nm) NIR device in counter measuring Affective Disorder in animal model (Zebra Fish) | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) | 
 | Comparison of effects of continuous PBM versus pulsatile PBM in treatment | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
+
+### Documentation
+
+| Document | Presentation |
+|:-------:| :-------: |
+| [DOCUMENTATION DOWNLOAD](Documentation\Shreenandan Sahu 120BM0806.pdf) | ![Static Badge](https://img.shields.io/badge/DONE-green?style=flat-square) |
