@@ -21,3 +21,10 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 | Document | Presentation |
 |:-------:| :-------: |
 | [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) |
+
+
+### 3D Designed Units
+
+| Head Unit | Control Unit |
+| :-------------------------------------------: | :-------------------------: |
+| ![](/images/Head%20Unit.png)  |  ![](/images/Control%20Unit.png) |
