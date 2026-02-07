@@ -18,9 +18,9 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 
 ### Documentation
 
-| Document | Presentation |
+| Document | Presentation | Poster |
 |:-------:| :-------: |
-| [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) |
+| [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) | [DOWNLOAD](/Documentation/STW%20Poster%20Presentation%20Shreenandan%20Sahu.pdf) |
 
 
 ### Electronics 
