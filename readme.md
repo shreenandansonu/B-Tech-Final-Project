@@ -1,4 +1,4 @@
-![Institute](https://img.shields.io/badge/Institute-NIT%20Rourkela-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Device%20Development-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr)
+![Institute](https://img.shields.io/badge/Institute-NIT%20Rourkela-219ebc?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Device%20Development-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-006d77?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-red?style=flat-square)](https://youtube.com/shorts/7qIoNEi0Ulo)
 
 <p align ="center">
     <a href="https://shreenandansahu.netlify.app/">
@@ -18,9 +18,9 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 
 ### Documentation
 
-| Document | Presentation | Poster |
-|:-------:| :-------: | :-------: |
-| [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) | [DOWNLOAD](/Documentation/STW%20Poster%20Presentation%20Shreenandan%20Sahu.pdf) |
+| Document | Presentation | Poster | DEMO |
+|:-------:| :-------: | :-------: | :-------: |
+| [DOWNLOAD](/Documentation/Shreenandan%20Sahu%20120BM0806.pdf) | [DOWNLOAD](/Documentation/120BM0806%20Shreenandan%20Sahu.pdf) | [DOWNLOAD](/Documentation/STW%20Poster%20Presentation%20Shreenandan%20Sahu.pdf) | [DOWNLOAD](https://youtube.com/shorts/7qIoNEi0Ulo) |
 
 
 ### Electronics 
