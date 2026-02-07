@@ -34,3 +34,6 @@ This project aims at making an affordable yet powerful **Photobiomodulation Ther
 | Head Unit | Control Unit |
 | :-------------------------------------------: | :-------------------------: |
 | ![](/images/Head%20Unit.png)  |  ![](/images/Control%20Unit.png) |
+
+### Poster Presentation
+![Poster](/images/STW%20Poster%20Presentation%20Shreenandan%20Sahu.png)
